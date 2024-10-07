@@ -108,7 +108,7 @@
 <br>
 
 <div align='center'>
-
+![](https://github-profile-trophy.vercel.app/?username=devserays&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## <b>thanks for visiting✨</b>
 <div align="center">
   <img src="https://profile-counter.glitch.me/devSerays/count.svg?"  />
