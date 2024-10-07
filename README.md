@@ -1,8 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm Mohammad Shoari </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img src="https://raw.githubusercontent.com/devSerays/devSerays/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <br>
@@ -16,7 +14,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught MERN stack developer
 - Personal website [link]([https://www.0xabdulkhalid.ml](https://shoari.iran.liara.run/))
 - I’m currently work on "فناوران توسعه امن ناجی"
 
