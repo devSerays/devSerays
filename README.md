@@ -109,7 +109,7 @@
 
 <div align='center'>
 
-## <b>Ramona✨</b>
+## <b>thanks for visiting✨</b>
 <div align="center">
   <img src="https://profile-counter.glitch.me/devSerays/count.svg?"  />
 </div>
