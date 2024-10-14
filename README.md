@@ -11,7 +11,7 @@
 <br>
 
 - A passionate Self-taught Front-End Developer & UiUx Designer
-- Personal website [link](https://shoari.iran.liara.run/)
+- [Personal website](https://shoari.iran.liara.run/)
 
 <br><br>
 
