@@ -10,7 +10,7 @@
 
 <br>
 
-- A passionate Self-taught Front-End developer
+- A passionate Self-taught Front-End Developer & UiUx Designer
 - Personal website [link]([https://www.0xabdulkhalid.ml](https://shoari.iran.liara.run/))
 
 <br><br>
@@ -21,9 +21,7 @@
 <br>
 
 <p align="center">
-    
-- **MERN Full Stack Development**:
-<div align="center">
+    <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -44,9 +42,6 @@
 </div>
 
 ###
-
-<br>
------
 
 <br>
 <br>
