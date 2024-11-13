@@ -9,7 +9,7 @@
 <br>
 
 - A passionate Self-taught Front-End Developer & UiUx Designer
-- [Personal website](https://shoari.iran.liara.run/)
+- [Personal website](https://shoari.vercel.app/)
 
 <br><br>
 
