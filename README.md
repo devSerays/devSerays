@@ -38,7 +38,7 @@ Passionate about building sleek, high-performance web applications with **React,
 ---
 
 ## 📫 Let's Connect!  
-<a href="mailto:work.shoari@gmail.com"><img src="https://img.shields.io/badge/Gmail-dRealMmd-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:work.shoari@gmail.com"><img src="https://img.shields.io/badge/Gmail-work.shoari-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
 
